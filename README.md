@@ -96,7 +96,7 @@ ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
 
-Include screenshot of the dataset
+
 
 ## OUTPUT
 
