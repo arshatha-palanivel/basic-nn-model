@@ -81,7 +81,7 @@ ai_brain = Sequential([
     Dense(1)
 ])
 ai_brain.compile(optimizer = 'rmsprop', loss = 'mse')
-ai_brain.fit(X_train1,y_train,epochs = 4000)
+ai_brain.fit(X_train1,y_train,epochs = 1000)
 loss_df = pd.DataFrame(ai_brain.history.history)
 loss_df.plot()
 X_test1 = Scaler.transform(X_test)
