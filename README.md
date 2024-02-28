@@ -14,6 +14,7 @@ First import the libraries which we will going to use and Import the dataset and
 
 ## Neural Network Model
 
+![DL 01](https://github.com/arshatha-palanivel/basic-nn-model/assets/118682484/60a424cf-58a6-41a5-a6c4-1339f1828829)
 
 
 
